@@ -21,7 +21,7 @@ Machine-Learning-main/
 - Topic-based folders so recruiters can find projects quickly.
 - Legacy copies and broken notebooks moved out of the main view.
 - Retained datasets are kept at the repository root for convenience.
-
+ 
 ## Notes
 
 - `projects/` contains the most polished work, including survival prediction, fraud detection, geospatial modeling, diffusion modeling, and transfer learning.
@@ -29,5 +29,5 @@ Machine-Learning-main/
 - `archive/legacy/` contains duplicate, incomplete, or low-signal notebooks that are preserved only for reference.
 
 ## Dataset
+I am unable to provide the datasets i will find them and attach them as soon as possible 
 
-- `fake_banking_app_dataset.csv` is the primary CSV asset currently included in the repository.
